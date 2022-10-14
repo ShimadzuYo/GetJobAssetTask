@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "frq+MPEjilQzayuCR8KvbDr3gYWfxRrzM9WKBhjJVxQkFUpCpEXoZ5B88S9+dSyY7o9mp5ecnSMp4jcXiwPBfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timelysoft\\RiderProjects\\App1\\WebApi1\\WebApi1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timelysoft\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\timelysoft\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\timelysoft\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\timelysoft\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\timelysoft\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\timelysoft\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
